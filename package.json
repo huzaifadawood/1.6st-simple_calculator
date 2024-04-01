@@ -1,0 +1,31 @@
+{
+  "name": "1.6st-simple_calculator",
+  "version": "1.0.0",
+  "description": "A simple calculator with Typescript,Node.js and inquirer",
+  "keywords": [
+    "calculator",
+    "math",
+    "arithmetic",
+    "computation",
+    "simple-calculator",
+    "utility",
+    "mathematics",
+    "numbers",
+    "operations",
+    "basic-calculator"
+  ],
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "huzaifa",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
